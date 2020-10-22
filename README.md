@@ -15,3 +15,5 @@ There are common situations where you would like to interface with different pla
 
 `HOW TO SEND DATA from Python to PSQL.ipynb`: this will cover using cofig files, using psycopg2 to connect to psogresql, query and send .csv and dataframe, using a memory profiler
 
+`HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
+
