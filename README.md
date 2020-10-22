@@ -17,3 +17,5 @@ There are common situations where you would like to interface with different pla
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
 
+`Mapreduce_PythonMongo.ipynb`: using `pymongo` and using Map-Reduce
+
