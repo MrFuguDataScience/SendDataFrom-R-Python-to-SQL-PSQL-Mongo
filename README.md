@@ -9,17 +9,28 @@ There are common situations where you would like to interface with different pla
 
 `----------------------------------------`
 
+`--------MySQL related-----------`
+
 `Python to Mysql, MongoDB,PostgreSQL`: `psycopg2` | `pyMongo` | `mysql-connect`
+
+`--------PSQL related-----------`
+
+`PSQL_JSON.ipynb`: send nested JSON to psql from python and make queries
 
 `Dict_Hstore_Psql.ipynb`: Using HStore in postgresql featuring (psycog2), has the JSON like functionality we need to parse data. 
 
 `HOW TO SEND DATA from Python to PSQL.ipynb`: this will cover using cofig files, using psycopg2 to connect to psogresql, query and send .csv and dataframe, using a memory profiler
 
-`HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
+`--------R-studio related-----------`
 
-`Mapreduce_PythonMongo.ipynb`: using `pymongo` and using Map-Reduce
+`HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
 
 `Mongolite_basics.ipynb`: going over basics that will help someone getting started with mongodb using r-studio
 
 `Mongolite_02_Nested.ipynb`: using R-studio, we will interface with mongoDB using `mongolite`. You will see queries, aggregates, map-reduce
+
+
+`--------MongoDB related-----------`
+
+`Mapreduce_PythonMongo.ipynb`: using `pymongo` and using Map-Reduce
 
