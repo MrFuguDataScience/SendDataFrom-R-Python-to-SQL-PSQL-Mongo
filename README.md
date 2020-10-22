@@ -12,3 +12,5 @@ There are common situations where you would like to interface with different pla
 
 `Dict_Hstore_Psql.ipynb`: Using HStore in postgresql featuring (psycog2), has the JSON like functionality we need to parse data. 
 
+`HOW TO SEND DATA from Python to PSQL.ipynb`: this will cover using cofig files, using psycopg2 to connect to psogresql, query and send
+
