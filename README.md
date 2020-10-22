@@ -9,11 +9,11 @@ There are common situations where you would like to interface with different pla
 
 `----------------------------------------`
 
-`--------MySQL related-----------`
+**`--------MySQL related-----------`**
 
 `Python to Mysql, MongoDB,PostgreSQL`: `psycopg2` | `pyMongo` | `mysql-connect`
 
-`--------PSQL related-----------`
+**`--------PSQL related-----------`**
 
 `PSQL_JSON.ipynb`: send nested JSON to psql from python and make queries
 
@@ -25,7 +25,9 @@ There are common situations where you would like to interface with different pla
 
 `PSQPL_to_Python_user_def_Func.ipynb`: create a table to store our information, create a user defined function `Trigger`, explain what is a trigger
 
-`--------R-studio related-----------`
+`Psql_patternMatching.ipynb`: find schema, mogrify, Ilike/Like, trigram, fuzzy match, phoenetic spelling, regex, Levenshtein distance, convert string representation.
+
+**`--------R-studio related-----------`**
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
 
@@ -34,7 +36,7 @@ There are common situations where you would like to interface with different pla
 `Mongolite_02_Nested.ipynb`: using R-studio, we will interface with mongoDB using `mongolite`. You will see queries, aggregates, map-reduce
 
 
-`--------MongoDB related-----------`
+**`--------MongoDB related-----------`**
 
 `Mapreduce_PythonMongo.ipynb`: using `pymongo` and using Map-Reduce
 
