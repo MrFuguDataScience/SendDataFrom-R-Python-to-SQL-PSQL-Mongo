@@ -19,3 +19,5 @@ There are common situations where you would like to interface with different pla
 
 `Mapreduce_PythonMongo.ipynb`: using `pymongo` and using Map-Reduce
 
+`Mongolite_02_Nested.ipynb`: using R-studio, we will interface with mongoDB using `mongolite`. You will see queries, aggregates, map-reduce
+
