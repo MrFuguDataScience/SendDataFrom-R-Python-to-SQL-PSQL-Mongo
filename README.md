@@ -10,5 +10,5 @@ There are common situations where you would like to interface with different pla
 
 `Python to Mysql, MongoDB,PostgreSQL`: `psycopg2` | `pyMongo` | `mysql-connect`
 
-`Dict_Hstore_Psql.ipynb`:
+`Dict_Hstore_Psql.ipynb`: Using HStore in postgresql featuring (psycog2), has the JSON like functionality we need to parse data. 
 
