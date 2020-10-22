@@ -10,3 +10,5 @@ There are common situations where you would like to interface with different pla
 
 `Python to Mysql, MongoDB,PostgreSQL`: `psycopg2` | `pyMongo` | `mysql-connect`
 
+`Dict_Hstore_Psql.ipynb`:
+
