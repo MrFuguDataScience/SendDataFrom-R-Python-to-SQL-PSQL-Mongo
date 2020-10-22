@@ -23,6 +23,8 @@ There are common situations where you would like to interface with different pla
 
 `PSQL_video03.ipynb`: using Extract function, plotting with seaborn and creating tables without using Excel
 
+`PSQPL_to_Python_user_def_Func.ipynb`: create a table to store our information, create a user defined function `Trigger`, explain what is a trigger
+
 `--------R-studio related-----------`
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
