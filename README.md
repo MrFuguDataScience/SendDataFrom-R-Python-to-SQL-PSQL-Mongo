@@ -29,6 +29,8 @@ There are common situations where you would like to interface with different pla
 
 `Psycopg2_Views.ipynb`: Create a view, explain purpose of using them and some bonus: date-time queries 
 
+`Psycopg_Join.ipynb`: Inner Join, date-time queries and hurdles with joins
+
 **`--------R-studio related-----------`**
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
