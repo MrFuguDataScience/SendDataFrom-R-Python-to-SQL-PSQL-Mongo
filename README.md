@@ -13,6 +13,8 @@ There are common situations where you would like to interface with different pla
 
 `Python to Mysql, MongoDB,PostgreSQL`: `psycopg2` | `pyMongo` | `mysql-connect`
 
+`Python_to_mysql_configFiles.ipynb`: create config and ini files to hide your user credentials for login.
+
 **`--------PSQL related-----------`**
 
 `PSQL_JSON.ipynb`: send nested JSON to psql from python and make queries
@@ -32,6 +34,7 @@ There are common situations where you would like to interface with different pla
 `Psycopg_Join.ipynb`: Inner Join, date-time queries and hurdles with joins
 
 `Python_Psql_injection.ipynb`: describe how to improve query formatting to avoid sql injection attacks and some considerations when using psql with python
+
 
 **`--------R-studio related-----------`**
 
