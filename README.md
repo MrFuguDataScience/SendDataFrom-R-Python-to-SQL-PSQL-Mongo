@@ -31,6 +31,8 @@ There are common situations where you would like to interface with different pla
 
 `Psycopg_Join.ipynb`: Inner Join, date-time queries and hurdles with joins
 
+`Python_Psql_injection.ipynb`: describe how to improve query formatting to avoid sql injection attacks and some considerations when using psql with python
+
 **`--------R-studio related-----------`**
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
