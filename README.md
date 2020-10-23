@@ -27,6 +27,8 @@ There are common situations where you would like to interface with different pla
 
 `Psql_patternMatching.ipynb`: find schema, mogrify, Ilike/Like, trigram, fuzzy match, phoenetic spelling, regex, Levenshtein distance, convert string representation.
 
+`Psycopg2_Views.ipynb`: Create a view, explain purpose of using them and some bonus: date-time queries 
+
 **`--------R-studio related-----------`**
 
 `HOWTO Generate Fake Data with R and sending to MYSQL.ipynb`: Using Python faker, to create a fake dataset
