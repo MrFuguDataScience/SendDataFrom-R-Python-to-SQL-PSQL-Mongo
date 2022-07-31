@@ -54,3 +54,5 @@ There are common situations where you would like to interface with different pla
 
 `Pymongo Nested docs.ipynb`: Map-Reduce, aggregate, use cases using `pymongo`
 
+`MongoDB_Lookup_operator.ipynb`: Lookup Operator and 2 examples with `Mongolite`
+
